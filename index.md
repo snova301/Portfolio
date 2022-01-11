@@ -5,9 +5,12 @@
 
 
 ## Profile
-福岡県出身滋賀県在住の電気系エンジニアです。
+福岡県出身 滋賀県在住の電気系エンジニアです。
+
 地方の国立大学(工学部)、大学院修士(工学)に進学し、研究室ではMatlabやPythonを使って機械学習による材料探索について研究しました。
+
 大学院修了後は化学メーカーの生産技術(電気)に就職し、化学工場で生産設備導入を担当しています。
+
 週末は妻に指示される家事と、学生の頃から趣味のプログラミング、PCゲーム、マンガをしています。
 
 
@@ -46,6 +49,11 @@ PyAutoGUIで画面を自由に操作できるようにしました。
 - blog : https://snova301.hatenablog.com/entry/2019/08/19/110000
 - github : https://github.com/snova301/japanese_electricity_law
 
+電気設備に関する計算ができるアプリをFlutterで製作し、Google Playに公開しました。
+- blog : https://snova301.hatenablog.com/entry/2021/11/28/172636
+- github : https://github.com/snova301/elec_calculator
+- Google Play : https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator
+
 
 ## Skill
 ### 電気エンジニアとして
@@ -54,8 +62,8 @@ PyAutoGUIで画面を自由に操作できるようにしました。
 - 運転免許 : 準中型、大型二輪
 - 電気系 : 第2種電気主任技術者(3種も取得済)、第2種電気工事士
 - 通信系 : 工事担任者AIDD総合種、第1級アマチュア無線技師
-- 工業系 : 危険物取扱者(乙4)
-- 情報処理 : 基本情報技術者
+- 工業系 : 危険物取扱者(乙4)、消防設備士(乙7)、公害防止管理者(大気1種)
+- 情報処理 : 応用情報技術者(基本情報技術者も取得済)
 - その他 : QC検定3級
 
 
@@ -64,13 +72,14 @@ PyAutoGUIで画面を自由に操作できるようにしました。
 - Python : Tensorflow(Keras), Pytorch
 - Matlab
 - C, C++
-- Dart : Flutter(勉強中)
+- Dart : Flutter
+- C# : Unity(勉強中)
 
 #### 開発環境
+- OS : macOS, windows, ubuntu
 - Editor : vscode, vim
 - VM : Docker, WSL2
 - Git : Github
-- OS : macOS, windows, ubuntu
 
 
 
