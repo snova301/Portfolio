@@ -1,1 +1,10 @@
-theme: jekyll-theme-slate
+remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+  - jekyll-remote-theme
+
+title: snova301 ポートフォリオ
+# subtitle: snova301 ポートフォリオページ
+description: Esnowbaのモバイルアプリに関する情報をまとめています。
+
+show_sidebar: false
+menubar: menubar

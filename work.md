@@ -8,13 +8,7 @@
 
 ## プログラム開発
 
-現在提供中のサービスをまとめました。
-
-|タイトル|内容|リンク|
-|:--|:--|:--|
-|電気設備計算アシスタント|電気設計や現場施工時にケーブルサイズ等を簡単に計算できるツール|[homepage](https://snova301.github.io/AppService/elec_calculator/home.html), [Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)|
-
-また、これまで取り組んだ制作物をまとめました。
+これまで取り組んだ制作物をまとめました。
 
 |内容|リンク|タグ|
 |:--|:--|:--|

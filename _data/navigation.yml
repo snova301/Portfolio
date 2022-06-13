@@ -1,0 +1,17 @@
+- name: Profile
+  link: /aboutme.md
+- name: Work
+  link: /work.md
+- name: Skill
+  link: /skill.md
+- name: Contact
+  link: /#
+  dropdown:
+    - name: Twitter
+      link: https://twitter.com/TiuapB1nIiPFQJD
+    - name: Github
+      link: https://github.com/snova301.html
+    - name: Github
+      link: https://snova301.hatenablog.com/
+- name: Buy me a coffee
+  link: https://www.buymeacoffee.com/snova301
