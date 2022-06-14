@@ -4,7 +4,7 @@
 
 本ページは`snova301`のポートフォリオページです。
 
-提供中のアプリに関するページは[こちら](https://snova301.github.io/AppService/elec_calculator/home.html)。
+提供中のアプリに関するページは[こちら](https://snova301.github.io/AppService/)。
 
 
 ## Profile
@@ -24,6 +24,7 @@
 |タイトル|内容|リンク|
 |:--|:--|:--|
 |電気設備計算アシスタント|電気設計や現場施工時にケーブルサイズ等を簡単に計算できるツール|<a href='https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width='150'/></a>|
+|採点カウンターSCCO|試験の採点を簡単にするツール|<a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png' width=150/></a>|
 
 
 
@@ -52,7 +53,7 @@
 
 
 
-[◁トップに戻る](./index.md)
 
+Google Play and the Google Play logo are trademarks of Google LLC.
 
 copyright snova301

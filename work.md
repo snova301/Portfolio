@@ -23,6 +23,7 @@
 |電気設備に関する計算ができるアプリを`Flutter`で製作し、`Google Play`に公開しました。|[blog](https://snova301.hatenablog.com/entry/2021/11/28/172636), [Github](https://github.com/snova301/elec_calculator), [Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)|`Flutter`|
 |`Python`で日付と過去の電力データから使用電力を予測しました。|[blog](https://snova301.hatenablog.com/entry/2022/03/28/182458), [Github](https://github.com/snova301/UsedElecPred)|`Python`, `ML`|
 |`Unity`でMeta Quest2向けの簡単なVRアプリを製作しました。|[blog](https://snova301.hatenablog.com/entry/2022/04/16/175238)|`Unity`|
+|テストの採点を簡単にするアプリを`Flutter`で製作し、`Google Play`に公開しました|[blog](https://snova301.hatenablog.com/entry/2022/06/14/141820), [Github](https://github.com/snova301/score_counter), [Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.score_counter)|`Flutter`|
 
 
 [◁トップに戻る](./index.md)
