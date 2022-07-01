@@ -38,6 +38,6 @@
 |プログラミング言語|`Python`, `Matlab`, `C++`, `C#`, `Dart`||
 |機械学習ライブラリ|`Pytorch`, `TensorFlow`, `PyCaret`||
 |アプリケーションフレームワーク|`Flutter`||
-|XR開発フレームワーク|`Unity`|勉強中|
+|XR開発フレームワーク|`Unity`, `Omniverse`, `Unreal Engine`|勉強中|
 
 [◁トップに戻る](./index.md)
