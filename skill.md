@@ -1,6 +1,6 @@
 # 技術と資格
 
-このページでは、[snova301](./index.md)の持っている技術や資格をまとめています。
+このページでは、Esunowbaの持っている技術や資格をまとめています。
 
 
 
@@ -27,17 +27,18 @@
 
 ## 開発ツール
 
-業務で使用している、またはプログラム開発で使用しているツールをまとめました。
+業務で使用している、または趣味のプログラム開発で使用しているツールをまとめました。
 
 |種類|名称|備考|
 |:--|:--|:--|
-|OS|`macOS`, `Windows`, `Ubuntu`||
+|OS|`macOS`, `Windows`, `Ubuntu`|メインは`macOS`|
 |エディター|`VSCode`, `Vim`|メインは`VSCode`|
 |仮想環境|`Docker`, `WSL2`||
 |バージョン管理|`Github`||
-|プログラミング言語|`Python`, `Matlab`, `C++`, `C#`, `Dart`||
+|プログラミング言語|`Python`, `Matlab`, `C++`, `Dart`||
 |機械学習ライブラリ|`Pytorch`, `TensorFlow`, `PyCaret`||
 |アプリケーションフレームワーク|`Flutter`||
+|クラウドサービス|`Firebase`||
 |XR開発フレームワーク|`Unity`, `Omniverse`, `Unreal Engine`|勉強中|
 
 [◁トップに戻る](./index.md)
